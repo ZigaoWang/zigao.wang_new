@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zigao.wang/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/"/>
+  </url>
+  <url>
+    <loc>https://zigao.wang/writing/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/writing/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/writing/"/>
+  </url>
+  <url>
+    <loc>https://zigao.wang/interests/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/interests/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/interests/"/>
+  </url>
+  <url>
+    <loc>https://zigao.wang/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/"/>
+  </url>
+  <url>
+    <loc>https://zigao.wang/zh/writing/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/writing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/writing/"/>
+  </url>
+  <url>
+    <loc>https://zigao.wang/zh/interests/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zigao.wang/zh/interests/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zigao.wang/interests/"/>
+  </url>
+</urlset>
