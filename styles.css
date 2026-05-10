@@ -182,6 +182,10 @@ footer a {
 }
 
 @media (max-width: 700px) {
+  body {
+    padding: 3rem 1.5rem;
+  }
+
   .page-layout {
     grid-template-columns: 1fr;
     gap: 0;
@@ -190,16 +194,22 @@ footer a {
 
   aside {
     text-align: left;
-    margin-top: 2.5rem;
+    margin-top: 0;
+    order: -1;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
   }
 
   .lang-toggle {
-    position: absolute;
-    top: 2rem;
-    right: 1.5rem;
+    margin-bottom: 0;
+    order: 1;
   }
 
   .elsewhere {
-    flex-direction: column;
+    flex-direction: row;
+    gap: 1rem;
+    flex-wrap: wrap;
   }
 }
