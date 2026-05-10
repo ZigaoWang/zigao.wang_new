@@ -155,8 +155,11 @@ ul li {
 .elsewhere {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
   font-size: 0.9rem;
+}
+
+.elsewhere a {
+  margin-bottom: 0.4rem;
 }
 
 .elsewhere a[aria-current="page"] {
@@ -209,7 +212,11 @@ footer a {
 
   .elsewhere {
     flex-direction: row;
-    gap: 1rem;
     flex-wrap: wrap;
+  }
+
+  .elsewhere a {
+    margin-bottom: 0;
+    margin-right: 0.75rem;
   }
 }
